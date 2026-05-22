@@ -15,7 +15,7 @@
 </p>
 
 ---
-🔗 **[Veure documentació del projecte](https://aonic518.github.io/M485-BLOC6-DJANGO-Projecte-Blog/)**
+🔗 **[Veure documentació del projecte](https://aonic518.github.io/CanalToni_M485-BLOC6-DJANGO-Projecte/)**
 ---
 
 # Descripció del Projecte
